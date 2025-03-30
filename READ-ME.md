@@ -129,3 +129,17 @@ Diagnostic Data
 
 1:23pm
 Got it working how I need for it to atleast start collecting data for the time being, so that way it can make some trade decisions in the future.
+
+
+
+~11/14/24~
+
+11:00am 
+Going to start it up again to collect some data and test to see if the bot will do any form of trading.
+
+~ 11/17/2024~
+
+2:52pm
+Got a lot of stuff figured out, I fixed the portfolio value not wanting to update and the money value not wanting to update. I also got the bot to start buying stocks and it makes trades successfully.
+It will just take time to test to see how it actually does. I currently had to put a $100 limit on each trade, which obviously isn't working since some stocks are above $100.
+
